@@ -1,0 +1,33 @@
+/* style.css */
+body {
+    background-color: #f9f9f9;
+    font-family: 'Arial', sans-serif;
+}
+
+.sidebar .sidebar-content {
+    background-color: #f4f7f9;
+    color: #3f3f3f;
+}
+
+.main-title {
+    font-family: 'Trebuchet MS', sans-serif;
+    color: #ffffff;
+}
+
+.section-title {
+    color: #0073e6;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.footer {
+    background-color: #f0f0f0;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #555555;
+}
+
+.stProgress > div > div > div > div {
+    background-color: #0073e6;
+}
