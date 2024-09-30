@@ -40,12 +40,13 @@ elif section == "Skills":
     
     skills = {
         "SQL": 85,
-        "Python": 80,
+        "Python": 75,
         "Data Visualization (Power BI, Tableau)": 90,
+        "Javascript": 70,
         "Google BigQuery": 75,
         "Azure Databricks": 70,
         "Version Control (Git)": 80,
-        "T-SQL": 75
+        "Splunk": 65
     }
 
     st.write("### Core Technical Skills")
